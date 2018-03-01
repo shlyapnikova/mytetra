@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mytetradoc>
 <root>
- <format version="1" subversion="1" />
+ <format version="1" subversion="2"/>
  <content>
-  <node id="1300000000aaaaaaaaa1" name="Rename me" >
+  <node crypt="" icon="/Swift/color_swift_Education.svg" id="1300000000aaaaaaaaa1" name="Саморазвитие">
    <recordtable>
-    <record dir="1300000000aaaaaaaaa2" url="" tags="MyTetra, Qt" author="" ctime="20081210124656" id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" file="text.html" />
+    <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
    </recordtable>
+   <node crypt="" id="15198996854atrgia86v" name="НЛП">
+    <node crypt="" id="151989973426264k7ne9" name="Практик - Харизма">
+     <recordtable>
+      <record id="1519899991o2zbotozeb" name="Список файлов" author="" url="" tags="чекчурин, нлп, харизма" ctime="20180301132631" dir="1519899991n7dimxpxkl" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
   </node>
+  <node crypt="" icon="/Swift/color_swift_Dollarbag.svg" id="1519900088cb6fe5x65v" name="Расчет финансов"/>
  </content>
 </root>
