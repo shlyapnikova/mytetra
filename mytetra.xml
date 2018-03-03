@@ -34,6 +34,13 @@
      </recordtable>
     </node>
    </node>
+   <node crypt="" icon="/Swift/color_swift_Molecule.svg" id="1520114911epr2l3ogb5" name="Астрология">
+    <node crypt="" id="1520114937m1jtqldi41" name="Хорарная астрология">
+     <recordtable>
+      <record id="1520114997sjttm1t51q" name="Порядок разбора хорарной карты" author="Елена Шапошникова" url="" tags="хорар" ctime="20180304010957" dir="1520114997lc50v7xf26" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
   </node>
   <node crypt="" icon="/Swift/color_swift_Dollarbag.svg" id="1519900088cb6fe5x65v" name="Финансы"/>
  </content>
