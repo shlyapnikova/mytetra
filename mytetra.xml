@@ -22,7 +22,12 @@
      </recordtable>
     </node>
    </node>
-   <node crypt="" icon="/Swift/color_swift_Testtube.svg" id="1520012567yzr0ppno9x" name="Таро"/>
+   <node crypt="" icon="/Swift/color_swift_Testtube.svg" id="1520012567yzr0ppno9x" name="Таро">
+    <recordtable>
+     <record id="1520055347y7xkoipu5j" name="ссылки на ресурсы" author="" url="" tags="таро, арканы, ссылки" ctime="20180303083547" dir="1520055347lbjgs5kgel" file="text.html"/>
+    </recordtable>
+    <node crypt="" id="1520055216gejpnmra3c" name="1 занятие"/>
+   </node>
   </node>
   <node crypt="" icon="/Swift/color_swift_Dollarbag.svg" id="1519900088cb6fe5x65v" name="Финансы"/>
  </content>
