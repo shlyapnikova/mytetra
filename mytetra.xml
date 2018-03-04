@@ -10,7 +10,18 @@
    <node crypt="" id="15198996854atrgia86v" name="НЛП">
     <node crypt="" id="151989973426264k7ne9" name="Практик - Харизма">
      <recordtable>
-      <record id="1519899991o2zbotozeb" name="Список файлов" author="" url="" tags="чекчурин, нлп, харизма" ctime="20180301132631" dir="1519899991n7dimxpxkl" file="text.html"/>
+      <record id="1519899991o2zbotozeb" name="Список файлов" author="" url="" tags="чекчурин, нлп, харизма" ctime="20180301132631" dir="1519899991n7dimxpxkl" file="text.html">
+       <files>
+        <file id="1520181197hvnvzuvcu4" fileName="pr-har01.mp4" link="D:/Ann/НЛП/Чекчурин/Харизма/Практик 1/pr-har01.mp4" type="link"/>
+        <file id="1520181282zc8wc3lrh8" fileName="pr-har02.mp4" link="D:/Ann/НЛП/Чекчурин/Харизма/Практик 1/pr-har02.mp4" type="link"/>
+        <file id="1520181282ui6lu9tw58" fileName="pr-har03.mp4" link="D:/Ann/НЛП/Чекчурин/Харизма/Практик 1/pr-har03.mp4" type="link"/>
+        <file id="1520181282bgcs8lxuul" fileName="pr-har04.mp4" link="D:/Ann/НЛП/Чекчурин/Харизма/Практик 1/pr-har04.mp4" type="link"/>
+        <file id="1520181282xytl4pnvra" fileName="pr-har05.mp4" link="D:/Ann/НЛП/Чекчурин/Харизма/Практик 1/pr-har05.mp4" type="link"/>
+        <file id="15201812826pph6yf29c" fileName="pr-har06.mp4" link="D:/Ann/НЛП/Чекчурин/Харизма/Практик 1/pr-har06.mp4" type="link"/>
+        <file id="1520181282c5ki5d86wq" fileName="pr-har07.mp4" link="D:/Ann/НЛП/Чекчурин/Харизма/Практик 1/pr-har07.mp4" type="link"/>
+        <file id="1520181282sdrdhavbwp" fileName="pr-har08.mp4" link="D:/Ann/НЛП/Чекчурин/Харизма/Практик 1/pr-har08.mp4" type="link"/>
+       </files>
+      </record>
      </recordtable>
     </node>
     <node crypt="" id="1519910665ztncyiztxu" name="Деньги и цели">
@@ -25,8 +36,8 @@
    <node crypt="" icon="/Swift/color_swift_Testtube.svg" id="1520012567yzr0ppno9x" name="Таро">
     <recordtable>
      <record id="1520055347y7xkoipu5j" name="Таро Уэйта" author="" url="" tags="старший аркан, уэйт" ctime="20180303083547" dir="1520055347lbjgs5kgel" file="text.html"/>
-     <record id="1520057485u0j0pn53vs" name="Марсельское Таро" author="" url="" tags="старший аркан, марсель" ctime="20180303091125" dir="1520057485iuthyfnex5" file="text.html"/>
      <record id="1520058127uizhb04qzf" name="Таро Тота (Алистер Кроули)" author="" url="" tags="старший аркан, кроули, тот" ctime="20180303092207" dir="15200581270y4uj0dzvi" file="text.html"/>
+     <record id="1520057485u0j0pn53vs" name="Марсельское Таро" author="" url="" tags="старший аркан, марсель" ctime="20180304161427" dir="1520057485iuthyfnex5" file="text.html"/>
     </recordtable>
     <node crypt="" id="1520055216gejpnmra3c" name="1 занятие">
      <recordtable>
@@ -37,11 +48,19 @@
    <node crypt="" icon="/Swift/color_swift_Molecule.svg" id="1520114911epr2l3ogb5" name="Астрология">
     <node crypt="" id="1520114937m1jtqldi41" name="Хорарная астрология">
      <recordtable>
-      <record id="1520114997sjttm1t51q" name="Порядок разбора хорарной карты" author="Елена Шапошникова" url="" tags="хорар" ctime="20180304010957" dir="1520114997lc50v7xf26" file="text.html"/>
+      <record id="1520114997sjttm1t51q" name="Порядок разбора хорарной карты" author="Елена Шапошникова" url="https://astropro.ru/?p=blog&amp;id=12380" tags="хорар, шапошникова, статья" ctime="20180304010957" dir="1520114997lc50v7xf26" file="text.html"/>
      </recordtable>
     </node>
    </node>
   </node>
-  <node crypt="" icon="/Swift/color_swift_Dollarbag.svg" id="1519900088cb6fe5x65v" name="Финансы"/>
+  <node crypt="" icon="/Swift/color_swift_Dollarbag.svg" id="1519900088cb6fe5x65v" name="Финансы">
+   <recordtable>
+    <record id="1520184499lua4wduiab" name="Бюджет 2018" author="" url="" tags="деньги, бюджет, расходы, учет, доход" ctime="20180304202819" dir="1520184499xc6wnyu13g" file="text.html">
+     <files>
+      <file id="1520188211in9tr68ax2" fileName="бюджет 2018.xlsx" link="D:/Ann/Dropbox/Documents/Бюджет/бюджет 2018.xlsx" type="link"/>
+     </files>
+    </record>
+   </recordtable>
+  </node>
  </content>
 </root>
