@@ -56,6 +56,11 @@
     <node crypt="" icon="/Swift/color_swift_Drums.svg" id="1520190333btgm26knxy" name="Дмитрий Зверев">
      <recordtable>
       <record id="1520234636rxapx1iwum" name="Об авторе" author="" url="https://zverinfo.ru/" tags="зверев, инфобизнес" ctime="20180305102356" dir="1520234636xapvfsncbn" file="text.html"/>
+      <record id="1520240374qejjakfrxw" name="Книги" author="Дмитрий Зверев" url="" tags="pdf" ctime="20180305115934" dir="1520240374vpqsvkgtar" file="text.html">
+       <files>
+        <file id="15202414432w7u41v3s9" fileName="Моя система автоворонок продаж.pdf" type="file"/>
+       </files>
+      </record>
      </recordtable>
      <node crypt="" id="1520234510nzwynhssck" name="Множественные мягкие продажи">
       <recordtable>
