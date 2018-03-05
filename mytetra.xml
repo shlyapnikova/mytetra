@@ -55,20 +55,27 @@
    <node crypt="" icon="/Simple/star_red.svg" id="15201901787y263gqw7c" name="Инфобизнес">
     <node crypt="" icon="/Swift/color_swift_Drums.svg" id="1520190333btgm26knxy" name="Дмитрий Зверев">
      <recordtable>
-      <record id="1520190452466ac501uy" name="Файлы для просмотра" author="Дмитрий Зверев" url="" tags="инфобизнес, продажи, зверев, воронка продаж" ctime="20180304220732" dir="1520190452yy1razpbmq" file="text.html">
-       <files>
-        <file id="15201905260ctbtpntp2" fileName="0. Система продаж.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/0. Система продаж.mp4" type="link"/>
-        <file id="1520190526yl73y5ah1d" fileName="1. Сервисы для инфомаркетинга.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/1. Сервисы для инфомаркетинга.mp4" type="link"/>
-        <file id="15201905268ngukbifcp" fileName="2. Способы продажи инфопродуктов4.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/2. Способы продажи инфопродуктов4.mp4" type="link"/>
-        <file id="1520190526732vmqxu3w" fileName="3. Разбор реальной автоворонки продаж в email.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/3. Разбор реальной автоворонки продаж в email.mp4" type="link"/>
-        <file id="1520190526izshr2szzb" fileName="4. Разбор автоворонки в социальных сетях.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/4. Разбор автоворонки в социальных сетях.mp4" type="link"/>
-        <file id="1520190526g9jy52hdfh" fileName="5. Формула запуска из 6 касаний.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/5. Формула запуска из 6 касаний.mp4" type="link"/>
-        <file id="1520190526s7xqrn9ppk" fileName="6. Разбор запуска книги.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/6. Разбор запуска книги.mp4" type="link"/>
-        <file id="1520190526pdg4q8xknh" fileName="7. Увеличение вовлеченности и фишки.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/7. Увеличение вовлеченности и фишки.mp4" type="link"/>
-       </files>
-      </record>
-      <record id="15201906228kfekkibg4" name="0. Система продаж" author="Дмитрий Зверев" url="" tags="инфобизнес, продажи" ctime="20180304221022" dir="1520190622wymigjsipg" file="text.html"/>
+      <record id="1520234636rxapx1iwum" name="Об авторе" author="" url="https://zverinfo.ru/" tags="зверев, инфобизнес" ctime="20180305102356" dir="1520234636xapvfsncbn" file="text.html"/>
      </recordtable>
+     <node crypt="" id="1520234510nzwynhssck" name="Множественные мягкие продажи">
+      <recordtable>
+       <record id="1520190452466ac501uy" name="Файлы для просмотра" author="Дмитрий Зверев" url="" tags="инфобизнес, продажи, зверев, воронка продаж" ctime="20180305102229" dir="1520190452yy1razpbmq" file="text.html">
+        <files>
+         <file id="15201905260ctbtpntp2" fileName="0. Система продаж.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/0. Система продаж.mp4" type="link"/>
+         <file id="1520190526yl73y5ah1d" fileName="1. Сервисы для инфомаркетинга.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/1. Сервисы для инфомаркетинга.mp4" type="link"/>
+         <file id="15201905268ngukbifcp" fileName="2. Способы продажи инфопродуктов4.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/2. Способы продажи инфопродуктов4.mp4" type="link"/>
+         <file id="1520190526732vmqxu3w" fileName="3. Разбор реальной автоворонки продаж в email.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/3. Разбор реальной автоворонки продаж в email.mp4" type="link"/>
+         <file id="1520190526izshr2szzb" fileName="4. Разбор автоворонки в социальных сетях.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/4. Разбор автоворонки в социальных сетях.mp4" type="link"/>
+         <file id="1520190526g9jy52hdfh" fileName="5. Формула запуска из 6 касаний.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/5. Формула запуска из 6 касаний.mp4" type="link"/>
+         <file id="1520190526s7xqrn9ppk" fileName="6. Разбор запуска книги.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/6. Разбор запуска книги.mp4" type="link"/>
+         <file id="1520190526pdg4q8xknh" fileName="7. Увеличение вовлеченности и фишки.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/7. Увеличение вовлеченности и фишки.mp4" type="link"/>
+        </files>
+       </record>
+       <record id="15201906228kfekkibg4" name="0. Система продаж" author="Дмитрий Зверев" url="" tags="инфобизнес, продажи" ctime="20180305102231" dir="1520190622wymigjsipg" file="text.html"/>
+       <record id="15202284134mjiaxdoog" name="1. Сервисы для инфомаркетинга" author="Дмитрий Зверев" url="" tags="сервисы, зверев, инфобизнес, рассылки, вебинар, чатбот, создание страниц" ctime="20180305102200" dir="1520228413hbreh43duc" file="text.html"/>
+       <record id="15202344044aartorzgt" name="2. Способы продажи инфопродуктов" author="Дмитрий Зверев" url="" tags="инфопродукт, продажа" ctime="20180305102233" dir="1520234404cqdg8vvbhp" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
    </node>
   </node>
