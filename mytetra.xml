@@ -32,17 +32,24 @@
       <record id="1519915928w1xtv0tmng" name="Упражение &quot;Пробить потолок&quot;" author="" url="" tags="чекчурин" ctime="20180301175208" dir="151991592818284kycyt" file="text.html"/>
      </recordtable>
     </node>
+    <node crypt="" icon="/Swift/color_swift_Gentleman.svg" id="1520667524eg9pn74r53" name="Фокусы языка">
+     <recordtable>
+      <record id="1520666111t4eag7nkbe" name="Фокусы языка (прямой эфир)" author="Ольга Пархонович" url="https://www.youtube.com/watch?v=RxTOp7ouFoY" tags="фокусы языка, магия языка, раскрутки, парханович" ctime="20180310103848" dir="1520666111ftmt18vt4q" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" icon="/Swift/color_swift_Testtube.svg" id="1520012567yzr0ppno9x" name="Таро">
     <recordtable>
      <record id="1520055347y7xkoipu5j" name="Таро Уэйта" author="" url="" tags="старший аркан, уэйт" ctime="20180303083547" dir="1520055347lbjgs5kgel" file="text.html"/>
      <record id="1520058127uizhb04qzf" name="Таро Тота (Алистер Кроули)" author="" url="" tags="старший аркан, кроули, тот" ctime="20180303092207" dir="15200581270y4uj0dzvi" file="text.html"/>
      <record id="1520057485u0j0pn53vs" name="Марсельское Таро" author="" url="" tags="старший аркан, марсель" ctime="20180304161427" dir="1520057485iuthyfnex5" file="text.html"/>
+     <record id="1520677591ylu9ldwm54" name="Мифическое Таро" author="" url="" tags="мифическое таро" ctime="20180310132631" dir="1520677591pnfn16w1go" file="text.html"/>
     </recordtable>
-    <node crypt="" id="1520055216gejpnmra3c" name="1 занятие">
+    <node crypt="" id="1520055216gejpnmra3c" name="Макс Коровкин">
      <recordtable>
-      <record id="1520055801c9dczlowrw" name="Высшие арканы: Маг" author="" url="" tags="старший аркан, маг" ctime="20180303084321" dir="1520055801c36lqydnrn" file="text.html"/>
-      <record id="15202794267stde2ziz3" name="табличка описания" author="" url="" tags="" ctime="20180305225026" dir="1520279426x8p5se4jy7" file="text.html"/>
+      <record id="1520055801c9dczlowrw" name="1. Высшие арканы: Маг" author="" url="" tags="старший аркан, маг" ctime="20180303084321" dir="1520055801c36lqydnrn" file="text.html"/>
+      <record id="1520692899meupzr2z8a" name="2. Высшие арканы: Жрица" author="" url="" tags="высшие арканы, жрица" ctime="20180310174139" dir="1520692899vjvp1n05n4" file="text.html"/>
+      <record id="15202794267stde2ziz3" name="описание тузов" author="" url="" tags="туз пентаклей, туз кубков, туз мечей, туз жезлов" ctime="20180305225026" dir="1520279426x8p5se4jy7" file="text.html"/>
      </recordtable>
     </node>
    </node>
