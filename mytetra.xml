@@ -1,129 +1,126 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE mytetradoc>
 <root>
- <format version="1" subversion="2"/>
- <content>
-  <node crypt="" icon="/Swift/color_swift_Education.svg" id="1300000000aaaaaaaaa1" name="Саморазвитие">
-   <recordtable>
-    <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
-   </recordtable>
-   <node crypt="" id="15198996854atrgia86v" name="НЛП">
-    <node crypt="" id="151989973426264k7ne9" name="Практик - Харизма">
-     <recordtable>
-      <record id="1519899991o2zbotozeb" name="Список файлов" author="" url="" tags="чекчурин, нлп, харизма" ctime="20180301132631" dir="1519899991n7dimxpxkl" file="text.html">
-       <files>
-        <file id="1520181197hvnvzuvcu4" fileName="pr-har01.mp4" link="D:/Ann/НЛП/Чекчурин/Харизма/Практик 1/pr-har01.mp4" type="link"/>
-        <file id="1520181282zc8wc3lrh8" fileName="pr-har02.mp4" link="D:/Ann/НЛП/Чекчурин/Харизма/Практик 1/pr-har02.mp4" type="link"/>
-        <file id="1520181282ui6lu9tw58" fileName="pr-har03.mp4" link="D:/Ann/НЛП/Чекчурин/Харизма/Практик 1/pr-har03.mp4" type="link"/>
-        <file id="1520181282bgcs8lxuul" fileName="pr-har04.mp4" link="D:/Ann/НЛП/Чекчурин/Харизма/Практик 1/pr-har04.mp4" type="link"/>
-        <file id="1520181282xytl4pnvra" fileName="pr-har05.mp4" link="D:/Ann/НЛП/Чекчурин/Харизма/Практик 1/pr-har05.mp4" type="link"/>
-        <file id="15201812826pph6yf29c" fileName="pr-har06.mp4" link="D:/Ann/НЛП/Чекчурин/Харизма/Практик 1/pr-har06.mp4" type="link"/>
-        <file id="1520181282c5ki5d86wq" fileName="pr-har07.mp4" link="D:/Ann/НЛП/Чекчурин/Харизма/Практик 1/pr-har07.mp4" type="link"/>
-        <file id="1520181282sdrdhavbwp" fileName="pr-har08.mp4" link="D:/Ann/НЛП/Чекчурин/Харизма/Практик 1/pr-har08.mp4" type="link"/>
-       </files>
-      </record>
-     </recordtable>
-    </node>
-    <node crypt="" id="1519910665ztncyiztxu" name="Деньги и цели">
-     <recordtable>
-      <record id="1519910765zul4a0kc5q" name="Деньги и цели" author="" url="" tags="чекчурин, нлп, деньги, цели" ctime="20180301162605" dir="1519910765q6ow6wdw8s" file="text.html"/>
-      <record id="1519910945pgvethwwxe" name="Убеждения" author="" url="" tags="чекчурин, деньги" ctime="20180301162905" dir="1519910945q5qf59xj8p" file="text.html"/>
-      <record id="15199156788rz9xzw78w" name="Слайды" author="" url="" tags="чекчурин" ctime="20180301174758" dir="1519915678zr1xwvld8n" file="text.html"/>
-      <record id="1519915928w1xtv0tmng" name="Упражение &quot;Пробить потолок&quot;" author="" url="" tags="чекчурин" ctime="20180301175208" dir="151991592818284kycyt" file="text.html"/>
-     </recordtable>
-    </node>
-    <node crypt="" icon="/Swift/color_swift_Gentleman.svg" id="1520667524eg9pn74r53" name="Фокусы языка">
-     <recordtable>
-      <record id="1520666111t4eag7nkbe" name="Фокусы языка (прямой эфир)" author="Ольга Пархонович" url="https://www.youtube.com/watch?v=RxTOp7ouFoY" tags="фокусы языка, магия языка, раскрутки, парханович" ctime="20180310103848" dir="1520666111ftmt18vt4q" file="text.html"/>
-     </recordtable>
-    </node>
-   </node>
-   <node crypt="" icon="/Swift/color_swift_Testtube.svg" id="1520012567yzr0ppno9x" name="Таро">
-    <recordtable>
-     <record id="1520055347y7xkoipu5j" name="Таро Уэйта" author="" url="" tags="старший аркан, уэйт" ctime="20180303083547" dir="1520055347lbjgs5kgel" file="text.html"/>
-     <record id="1520058127uizhb04qzf" name="Таро Тота (Алистер Кроули)" author="" url="" tags="старший аркан, кроули, тот" ctime="20180303092207" dir="15200581270y4uj0dzvi" file="text.html"/>
-     <record id="1520057485u0j0pn53vs" name="Марсельское Таро" author="" url="" tags="старший аркан, марсель" ctime="20180304161427" dir="1520057485iuthyfnex5" file="text.html"/>
-     <record id="1520677591ylu9ldwm54" name="Мифическое Таро" author="" url="" tags="мифическое таро" ctime="20180310132631" dir="1520677591pnfn16w1go" file="text.html"/>
-    </recordtable>
-    <node crypt="" id="1520055216gejpnmra3c" name="Таро с Максом">
-     <recordtable>
-      <record id="1520055801c9dczlowrw" name="1. Высшие арканы: Маг" author="" url="" tags="старший аркан, маг" ctime="20180303084321" dir="1520055801c36lqydnrn" file="text.html"/>
-      <record id="1520692899meupzr2z8a" name="2. Высшие арканы: Жрица" author="" url="" tags="высшие арканы, жрица" ctime="20180310174139" dir="1520692899vjvp1n05n4" file="text.html"/>
-      <record id="15213706562suf41xyt2" name="3. Высшие арканы: Императрица" author="" url="" tags="" ctime="20180318135736" dir="1521370656btgaesy7r3" file="text.html"/>
-      <record id="15202794267stde2ziz3" name="описание тузов" author="" url="" tags="туз пентаклей, туз кубков, туз мечей, туз жезлов" ctime="20180305225026" dir="1520279426x8p5se4jy7" file="text.html"/>
-     </recordtable>
-    </node>
-   </node>
-   <node crypt="" icon="/Swift/color_swift_Molecule.svg" id="1520114911epr2l3ogb5" name="Астрология">
-    <node crypt="" id="1520114937m1jtqldi41" name="Хорарная астрология">
-     <recordtable>
-      <record id="1520114997sjttm1t51q" name="Порядок разбора хорарной карты" author="Елена Шапошникова" url="https://astropro.ru/?p=blog&amp;id=12380" tags="хорар, шапошникова, статья" ctime="20180304010957" dir="1520114997lc50v7xf26" file="text.html"/>
-     </recordtable>
-    </node>
-   </node>
-   <node crypt="" icon="/Simple/star_red.svg" id="15201901787y263gqw7c" name="Инфобизнес">
-    <node crypt="" icon="/Swift/color_swift_Drums.svg" id="1520190333btgm26knxy" name="Дмитрий Зверев">
-     <recordtable>
-      <record id="1520234636rxapx1iwum" name="Об авторе" author="" url="https://zverinfo.ru/" tags="зверев, инфобизнес" ctime="20180305102356" dir="1520234636xapvfsncbn" file="text.html"/>
-      <record id="1520240374qejjakfrxw" name="Книги" author="Дмитрий Зверев" url="" tags="pdf" ctime="20180305115934" dir="1520240374vpqsvkgtar" file="text.html">
-       <files>
-        <file id="15202414432w7u41v3s9" fileName="Моя система автоворонок продаж.pdf" type="file"/>
-       </files>
-      </record>
-     </recordtable>
-     <node crypt="" id="1520234510nzwynhssck" name="Множественные мягкие продажи">
-      <recordtable>
-       <record id="1520190452466ac501uy" name="Файлы для просмотра" author="Дмитрий Зверев" url="" tags="инфобизнес, продажи, зверев, воронка продаж" ctime="20180305102229" dir="1520190452yy1razpbmq" file="text.html">
-        <files>
-         <file id="15201905260ctbtpntp2" fileName="0. Система продаж.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/0. Система продаж.mp4" type="link"/>
-         <file id="1520190526yl73y5ah1d" fileName="1. Сервисы для инфомаркетинга.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/1. Сервисы для инфомаркетинга.mp4" type="link"/>
-         <file id="15201905268ngukbifcp" fileName="2. Способы продажи инфопродуктов4.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/2. Способы продажи инфопродуктов4.mp4" type="link"/>
-         <file id="1520190526732vmqxu3w" fileName="3. Разбор реальной автоворонки продаж в email.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/3. Разбор реальной автоворонки продаж в email.mp4" type="link"/>
-         <file id="1520190526izshr2szzb" fileName="4. Разбор автоворонки в социальных сетях.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/4. Разбор автоворонки в социальных сетях.mp4" type="link"/>
-         <file id="1520190526g9jy52hdfh" fileName="5. Формула запуска из 6 касаний.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/5. Формула запуска из 6 касаний.mp4" type="link"/>
-         <file id="1520190526s7xqrn9ppk" fileName="6. Разбор запуска книги.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/6. Разбор запуска книги.mp4" type="link"/>
-         <file id="1520190526pdg4q8xknh" fileName="7. Увеличение вовлеченности и фишки.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/7. Увеличение вовлеченности и фишки.mp4" type="link"/>
-        </files>
-       </record>
-       <record id="15201906228kfekkibg4" name="0. Система продаж" author="Дмитрий Зверев" url="" tags="инфобизнес, продажи" ctime="20180305102231" dir="1520190622wymigjsipg" file="text.html"/>
-       <record id="15202284134mjiaxdoog" name="1. Сервисы для инфомаркетинга" author="Дмитрий Зверев" url="" tags="сервисы, зверев, инфобизнес, рассылки, вебинар, чатбот, создание страниц" ctime="20180305102200" dir="1520228413hbreh43duc" file="text.html"/>
-       <record id="15202344044aartorzgt" name="2. Способы продажи инфопродуктов" author="Дмитрий Зверев" url="" tags="инфопродукт, продажа" ctime="20180305102233" dir="1520234404cqdg8vvbhp" file="text.html"/>
-       <record id="152024469976ec7496j8" name="3. Разбор реальной автоворонки" author="Дмитрий Зверев" url="" tags="автоворонка" ctime="20180305131139" dir="15202446991eaqrfrvoz" file="text.html"/>
-       <record id="1520254594qby5sjhkhy" name="4. Разбор автоворонки в соцсетях" author="Дмитрий Зверев" url="" tags="автоворонка, соцсети, ВК, гамаюн, socialsend" ctime="20180305155634" dir="1520254594fucd28wxib" file="text.html"/>
-       <record id="15202601501a8r492kst" name="5. Формула запуска из 6 касаний" author="Дмитрий Зверев" url="" tags="" ctime="20180305172910" dir="1520260150zlo0m0ykzl" file="text.html">
-        <files>
-         <file id="15202604379gphwwohf0" fileName="Простой запуск через 6 касаний.pdf" type="file"/>
-        </files>
-       </record>
-       <record id="152026920986cy6gcln7" name="6. Разбор запуска книги" author="Дмитрий Зверев" url="" tags="" ctime="20180305200009" dir="15202692098351dh9yr9" file="text.html"/>
-       <record id="1520282401io2h3i54c9" name="7. Увеличение вовлеченности и фишки" author="Дмитрий Зверев" url="" tags="" ctime="20180305234001" dir="1520282401g5924q0roi" file="text.html"/>
-      </recordtable>
-     </node>
-    </node>
-   </node>
-  </node>
-  <node crypt="" icon="/Swift/color_swift_Dollarbag.svg" id="1519900088cb6fe5x65v" name="Финансы">
-   <recordtable>
-    <record id="1520184499lua4wduiab" name="Бюджет 2018" author="" url="" tags="деньги, бюджет, расходы, учет, доход" ctime="20180304202819" dir="1520184499xc6wnyu13g" file="text.html">
-     <files>
-      <file id="1520188211in9tr68ax2" fileName="бюджет 2018.xlsx" link="D:/Ann/Dropbox/Documents/Бюджет/бюджет 2018.xlsx" type="link"/>
-     </files>
-    </record>
-   </recordtable>
-  </node>
-  <node crypt="" id="1521811407n56ftbnw2r" name="Астрология">
-   <node crypt="" icon="/Swift/color_swift_Education.svg" id="1521811426c6zrwi2mj0" name="Хорарная школа"/>
-   <node crypt="" icon="/Swift/color_swift_Moviescene.svg" id="15218114361p9ugzvjzl" name="Астродрама">
-    <recordtable>
-     <record id="15217876451vkm2u0n5g" name="Ссылки" author="" url="" tags="" ctime="20180323162550" dir="1521787645mg11bo36z1" file="text.html"/>
-     <record id="1521785767hxp71uioy9" name="Об Астродрамме" author="" url="" tags="" ctime="20180323162604" dir="1521785767cddoymhajt" file="text.html"/>
-     <record id="1521785051w6c2nlk263" name="Астродрама" author="" url="" tags="астрология, психология, астродрама" ctime="20180323162609" dir="1521785051ia6dhimoge" file="text.html"/>
-     <record id="1521786892nx4k4dx2ve" name="Астропсихология" author="" url="" tags="" ctime="20180323162612" dir="1521786892z8qmgmstdj" file="text.html"/>
-    </recordtable>
-   </node>
-   <node crypt="" id="15218114457foqar8ih5" name="Лекции ШКА"/>
-   <node crypt="" id="1521811473e582rsv929" name="Статьи чужие"/>
-   <node crypt="" id="1521811489xy64r72626" name="Статьи МОИ"/>
-  </node>
- </content>
-</root>
+	<format version="1" subversion="2"/>
+	<content>
+		<node crypt="" icon="/Swift/color_swift_Education.svg" id="1300000000aaaaaaaaa1" name="Саморазвитие">
+			<recordtable>
+				<record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
+			</recordtable>
+			<node crypt="" id="15198996854atrgia86v" name="НЛП">
+				<node crypt="" id="151989973426264k7ne9" name="Практик - Харизма">
+					<recordtable>
+						<record id="1519899991o2zbotozeb" name="Список файлов" author="" url="" tags="чекчурин, нлп, харизма" ctime="20180301132631" dir="1519899991n7dimxpxkl" file="text.html">
+							<files>
+								<file id="1520181197hvnvzuvcu4" fileName="pr-har01.mp4" link="D:/Ann/НЛП/Чекчурин/Харизма/Практик 1/pr-har01.mp4" type="link"/>
+								<file id="1520181282zc8wc3lrh8" fileName="pr-har02.mp4" link="D:/Ann/НЛП/Чекчурин/Харизма/Практик 1/pr-har02.mp4" type="link"/>
+								<file id="1520181282ui6lu9tw58" fileName="pr-har03.mp4" link="D:/Ann/НЛП/Чекчурин/Харизма/Практик 1/pr-har03.mp4" type="link"/>
+								<file id="1520181282bgcs8lxuul" fileName="pr-har04.mp4" link="D:/Ann/НЛП/Чекчурин/Харизма/Практик 1/pr-har04.mp4" type="link"/>
+								<file id="1520181282xytl4pnvra" fileName="pr-har05.mp4" link="D:/Ann/НЛП/Чекчурин/Харизма/Практик 1/pr-har05.mp4" type="link"/>
+								<file id="15201812826pph6yf29c" fileName="pr-har06.mp4" link="D:/Ann/НЛП/Чекчурин/Харизма/Практик 1/pr-har06.mp4" type="link"/>
+								<file id="1520181282c5ki5d86wq" fileName="pr-har07.mp4" link="D:/Ann/НЛП/Чекчурин/Харизма/Практик 1/pr-har07.mp4" type="link"/>
+								<file id="1520181282sdrdhavbwp" fileName="pr-har08.mp4" link="D:/Ann/НЛП/Чекчурин/Харизма/Практик 1/pr-har08.mp4" type="link"/>
+							</files>
+						</record>
+					</recordtable>
+				</node>
+				<node crypt="" id="1519910665ztncyiztxu" name="Деньги и цели">
+					<recordtable>
+						<record id="1519910765zul4a0kc5q" name="Деньги и цели" author="" url="" tags="чекчурин, нлп, деньги, цели" ctime="20180301162605" dir="1519910765q6ow6wdw8s" file="text.html"/>
+						<record id="1519910945pgvethwwxe" name="Убеждения" author="" url="" tags="чекчурин, деньги" ctime="20180301162905" dir="1519910945q5qf59xj8p" file="text.html"/>
+						<record id="15199156788rz9xzw78w" name="Слайды" author="" url="" tags="чекчурин" ctime="20180301174758" dir="1519915678zr1xwvld8n" file="text.html"/>
+						<record id="1519915928w1xtv0tmng" name="Упражение &quot;Пробить потолок&quot;" author="" url="" tags="чекчурин" ctime="20180301175208" dir="151991592818284kycyt" file="text.html"/>
+					</recordtable>
+				</node>
+				<node crypt="" icon="/Swift/color_swift_Gentleman.svg" id="1520667524eg9pn74r53" name="Фокусы языка">
+					<recordtable>
+						<record id="1520666111t4eag7nkbe" name="Фокусы языка (прямой эфир)" author="Ольга Пархонович" url="https://www.youtube.com/watch?v=RxTOp7ouFoY" tags="фокусы языка, магия языка, раскрутки, парханович" ctime="20180310103848" dir="1520666111ftmt18vt4q" file="text.html"/>
+					</recordtable>
+				</node>
+			</node>
+			<node crypt="" icon="/Swift/color_swift_Testtube.svg" id="1520012567yzr0ppno9x" name="Таро">
+				<recordtable>
+					<record id="1520055347y7xkoipu5j" name="Таро Уэйта" author="" url="" tags="старший аркан, уэйт" ctime="20180303083547" dir="1520055347lbjgs5kgel" file="text.html"/>
+					<record id="1520058127uizhb04qzf" name="Таро Тота (Алистер Кроули)" author="" url="" tags="старший аркан, кроули, тот" ctime="20180303092207" dir="15200581270y4uj0dzvi" file="text.html"/>
+					<record id="1520057485u0j0pn53vs" name="Марсельское Таро" author="" url="" tags="старший аркан, марсель" ctime="20180304161427" dir="1520057485iuthyfnex5" file="text.html"/>
+					<record id="1520677591ylu9ldwm54" name="Мифическое Таро" author="" url="" tags="мифическое таро" ctime="20180310132631" dir="1520677591pnfn16w1go" file="text.html"/>
+				</recordtable>
+				<node crypt="" id="1520055216gejpnmra3c" name="Таро с Максом">
+					<recordtable>
+						<record id="1520055801c9dczlowrw" name="1. Высшие арканы: Маг" author="" url="" tags="старший аркан, маг" ctime="20180303084321" dir="1520055801c36lqydnrn" file="text.html"/>
+						<record id="1520692899meupzr2z8a" name="2. Высшие арканы: Жрица" author="" url="" tags="высшие арканы, жрица" ctime="20180310174139" dir="1520692899vjvp1n05n4" file="text.html"/>
+						<record id="15213706562suf41xyt2" name="3. Высшие арканы: Императрица" author="" url="" tags="" ctime="20180318135736" dir="1521370656btgaesy7r3" file="text.html"/>
+						<record id="15202794267stde2ziz3" name="описание тузов" author="" url="" tags="туз пентаклей, туз кубков, туз мечей, туз жезлов" ctime="20180305225026" dir="1520279426x8p5se4jy7" file="text.html"/>
+					</recordtable>
+				</node>
+			</node>
+			<node crypt="" icon="/Swift/color_swift_Molecule.svg" id="1520114911epr2l3ogb5" name="Астрология">
+				<node crypt="" id="1520114937m1jtqldi41" name="Хорарная астрология">
+					<recordtable>
+						<record id="1520114997sjttm1t51q" name="Порядок разбора хорарной карты" author="Елена Шапошникова" url="https://astropro.ru/?p=blog&amp;id=12380" tags="хорар, шапошникова, статья" ctime="20180304010957" dir="1520114997lc50v7xf26" file="text.html"/>
+					</recordtable>
+				</node>
+			</node>
+			<node crypt="" icon="/Simple/star_red.svg" id="15201901787y263gqw7c" name="Инфобизнес">
+				<node crypt="" icon="/Swift/color_swift_Drums.svg" id="1520190333btgm26knxy" name="Дмитрий Зверев">
+					<recordtable>
+						<record id="1520234636rxapx1iwum" name="Об авторе" author="" url="https://zverinfo.ru/" tags="зверев, инфобизнес" ctime="20180305102356" dir="1520234636xapvfsncbn" file="text.html"/>
+						<record id="1520240374qejjakfrxw" name="Книги" author="Дмитрий Зверев" url="" tags="pdf" ctime="20180305115934" dir="1520240374vpqsvkgtar" file="text.html">
+							<files>
+								<file id="15202414432w7u41v3s9" fileName="Моя система автоворонок продаж.pdf" type="file"/>
+							</files>
+						</record>
+					</recordtable>
+					<node crypt="" id="1520234510nzwynhssck" name="Множественные мягкие продажи">
+						<recordtable>
+							<record id="1520190452466ac501uy" name="Файлы для просмотра" author="Дмитрий Зверев" url="" tags="инфобизнес, продажи, зверев, воронка продаж" ctime="20180305102229" dir="1520190452yy1razpbmq" file="text.html">
+								<files>
+									<file id="15201905260ctbtpntp2" fileName="0. Система продаж.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/0. Система продаж.mp4" type="link"/>
+									<file id="1520190526yl73y5ah1d" fileName="1. Сервисы для инфомаркетинга.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/1. Сервисы для инфомаркетинга.mp4" type="link"/>
+									<file id="15201905268ngukbifcp" fileName="2. Способы продажи инфопродуктов4.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/2. Способы продажи инфопродуктов4.mp4" type="link"/>
+									<file id="1520190526732vmqxu3w" fileName="3. Разбор реальной автоворонки продаж в email.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/3. Разбор реальной автоворонки продаж в email.mp4" type="link"/>
+									<file id="1520190526izshr2szzb" fileName="4. Разбор автоворонки в социальных сетях.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/4. Разбор автоворонки в социальных сетях.mp4" type="link"/>
+									<file id="1520190526g9jy52hdfh" fileName="5. Формула запуска из 6 касаний.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/5. Формула запуска из 6 касаний.mp4" type="link"/>
+									<file id="1520190526s7xqrn9ppk" fileName="6. Разбор запуска книги.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/6. Разбор запуска книги.mp4" type="link"/>
+									<file id="1520190526pdg4q8xknh" fileName="7. Увеличение вовлеченности и фишки.mp4" link="D:/Ann/Инфобизнес/Дмитрий Зверев/7. Увеличение вовлеченности и фишки.mp4" type="link"/>
+								</files>
+							</record>
+							<record id="15201906228kfekkibg4" name="0. Система продаж" author="Дмитрий Зверев" url="" tags="инфобизнес, продажи" ctime="20180305102231" dir="1520190622wymigjsipg" file="text.html"/>
+							<record id="15202284134mjiaxdoog" name="1. Сервисы для инфомаркетинга" author="Дмитрий Зверев" url="" tags="сервисы, зверев, инфобизнес, рассылки, вебинар, чатбот, создание страниц" ctime="20180305102200" dir="1520228413hbreh43duc" file="text.html"/>
+							<record id="15202344044aartorzgt" name="2. Способы продажи инфопродуктов" author="Дмитрий Зверев" url="" tags="инфопродукт, продажа" ctime="20180305102233" dir="1520234404cqdg8vvbhp" file="text.html"/>
+							<record id="152024469976ec7496j8" name="3. Разбор реальной автоворонки" author="Дмитрий Зверев" url="" tags="автоворонка" ctime="20180305131139" dir="15202446991eaqrfrvoz" file="text.html"/>
+							<record id="1520254594qby5sjhkhy" name="4. Разбор автоворонки в соцсетях" author="Дмитрий Зверев" url="" tags="автоворонка, соцсети, ВК, гамаюн, socialsend" ctime="20180305155634" dir="1520254594fucd28wxib" file="text.html"/>
+							<record id="15202601501a8r492kst" name="5. Формула запуска из 6 касаний" author="Дмитрий Зверев" url="" tags="" ctime="20180305172910" dir="1520260150zlo0m0ykzl" file="text.html">
+								<files>
+									<file id="15202604379gphwwohf0" fileName="Простой запуск через 6 касаний.pdf" type="file"/>
+								</files>
+							</record>
+							<record id="152026920986cy6gcln7" name="6. Разбор запуска книги" author="Дмитрий Зверев" url="" tags="" ctime="20180305200009" dir="15202692098351dh9yr9" file="text.html"/>
+							<record id="1520282401io2h3i54c9" name="7. Увеличение вовлеченности и фишки" author="Дмитрий Зверев" url="" tags="" ctime="20180305234001" dir="1520282401g5924q0roi" file="text.html"/>
+						</recordtable>
+					</node>
+				</node>
+			</node>
+		</node>
+		<node crypt="" icon="/Swift/color_swift_Dollarbag.svg" id="1519900088cb6fe5x65v" name="Финансы">
+			<recordtable>
+				<record id="1520184499lua4wduiab" name="Бюджет 2018" author="" url="" tags="деньги, бюджет, расходы, учет, доход" ctime="20180304202819" dir="1520184499xc6wnyu13g" file="text.html">
+					<files>
+						<file id="1520188211in9tr68ax2" fileName="бюджет 2018.xlsx" link="D:/Ann/Dropbox/Documents/Бюджет/бюджет 2018.xlsx" type="link"/>
+					</files>
+				</record>
+			</recordtable>
+		</node>
+		<node crypt="" id="1521811407n56ftbnw2r" name="Астрология">
+			<node crypt="" icon="/Swift/color_swift_Education.svg" id="1521811426c6zrwi2mj0" name="Хорарная школа"/>
+			<node crypt="" icon="/Swift/color_swift_Moviescene.svg" id="15218114361p9ugzvjzl" name="Астродрама">
+				<recordtable>
+					<record id="15217876451vkm2u0n5g" name="Ссылки" author="" url="" tags="" ctime="20180323162550" dir="1521787645mg11bo36z1" file="text.html"/>
+					<record id="1521785767hxp71uioy9" name="Об Астродрамме" author="" url="" tags="" ctime="20180323162604" dir="1521785767cddoymhajt" file="text.html"/>
+					<record id="1521785051w6c2nlk263" name="Астродрама" author="" url="" tags="астрология, психология, астродрама" ctime="20180323162609" dir="1521785051ia6dhimoge" file="text.html"/>
+					<record id="1521786892nx4k4dx2ve" name="Астропсихология" author="" url="" tags="" ctime="20180323162612" dir="1521786892z8qmgmstdj" file="text.html"/>
+				</recordtable>
+			</node>
+			<node crypt="" id="15218114457foqar8ih5" name="Лекции ШКА"/>
+			<node crypt="" id="1521811473e582rsv929" name="Статьи чужие"><recordtable><record id="152181254449kw93y52e" name="Меркурий" author="" url="http://mks-onlain.ru/planet/mercury/" tags="" ctime="20180323164224" dir="1521812544z5lmp2uag0" file="text.html"/></recordtable></node>
+			<node crypt="" id="1521811489xy64r72626" name="Статьи МОИ"/>
+		</node>
+	</content></root>
