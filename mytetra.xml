@@ -147,6 +147,16 @@
     </recordtable>
    </node>
   </node>
-  <node crypt="" id="1521910391rl2urgla52" name="Родословная"/>
+  <node crypt="" icon="/SmashingTourism/nocolor_smashing_tourism_Tourism-Icons_tree.svg" id="1521910391rl2urgla52" name="Родословная">
+   <node crypt="" id="15219104674wsb352tpg" name="Жаба">
+    <recordtable>
+     <record id="15219105152k8652ar79" name="Нина и Альфонс Жаба (статья в журнале)" author="" url="" tags="альфонс жаба, нина жаба" ctime="20180324195515" dir="15219105158qf88pmu1t" file="text.html">
+      <files>
+       <file id="1521910533maepvn9dg0" fileName="ЖУК_2008-03-18.pdf" type="file"/>
+      </files>
+     </record>
+    </recordtable>
+   </node>
+  </node>
  </content>
 </root>
