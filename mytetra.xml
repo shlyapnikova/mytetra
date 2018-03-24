@@ -115,9 +115,22 @@
      <record id="1521786892nx4k4dx2ve" name="Астропсихология" author="" url="" tags="" ctime="20180323162612" dir="1521786892z8qmgmstdj" file="text.html"/>
     </recordtable>
    </node>
-   <node crypt="" icon="/Swift/color_swift_Blitzcam.svg" id="15218114457foqar8ih5" name="Лекции ШКА"/>
+   <node crypt="" icon="/Swift/color_swift_Blitzcam.svg" id="15218114457foqar8ih5" name="Лекции ШКА">
+    <node crypt="" id="1521882503feqya8fzc5" name="Астрологический НГ"/>
+   </node>
    <node crypt="" id="1521811473e582rsv929" name="Статьи чужие"/>
-   <node crypt="" id="1521811489xy64r72626" name="Статьи МОИ"/>
+   <node crypt="" id="1521811489xy64r72626" name="Статьи МОИ">
+    <node crypt="" id="15218830376eb731s16w" name="Голоушкин &quot;Астрономия&quot;">
+     <node crypt="" id="1521883237dp8j2zxj42" name="Меркурий">
+      <recordtable>
+       <record id="152188339984y47w589m" name="MindMap статьи" author="" url="" tags="mindmap, голоушкин, астрономия" ctime="20180324122319" dir="1521883399n0qj11cb39" file="text.html"/>
+       <record id="1521884111qa28zi7d6x" name="Меркурий - ВИКИ" author="" url="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D0%BA%D1%83%D1%80%D0%B8%D0%B9" tags="" ctime="20180324123511" dir="1521884111cm48imms6i" file="text.html"/>
+       <record id="1521883170fldba7pf9d" name="Меркурий - чужая статья" author="" url="http://www.factruz.ru/space_mistery/mercury.htm" tags="астрономия, голоушкин" ctime="20180324122055" dir="15218831704rdconpzxu" file="text.html"/>
+       <record id="1521884481sujx1c7ayr" name="Переписка" author="" url="" tags="" ctime="20180324124121" dir="1521884481xg5oe26ips" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
+   </node>
    <node crypt="" id="1521812649fzb9yrrsfy" name="Хорарная астрология">
     <recordtable>
      <record id="1521812649y76op8i6z8" name="Порядок разбора хорарной карты" author="Елена Шапошникова" url="https://astropro.ru/?p=blog&amp;id=12380" tags="хорар, шапошникова, статья" ctime="20180323164409" dir="15218126491246tq7qaw" file="text.html"/>
