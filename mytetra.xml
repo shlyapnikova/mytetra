@@ -44,6 +44,7 @@
      <record id="1520058127uizhb04qzf" name="Таро Тота (Алистер Кроули)" author="" url="" tags="старший аркан, кроули, тот" ctime="20180303092207" dir="15200581270y4uj0dzvi" file="text.html"/>
      <record id="1520057485u0j0pn53vs" name="Марсельское Таро" author="" url="" tags="старший аркан, марсель" ctime="20180304161427" dir="1520057485iuthyfnex5" file="text.html"/>
      <record id="1520677591ylu9ldwm54" name="Мифическое Таро" author="" url="" tags="мифическое таро" ctime="20180310132631" dir="1520677591pnfn16w1go" file="text.html"/>
+     <record id="15218852464tsaismmxd" name="ссылки на колоды" author="" url="" tags="колода таро" ctime="20180324125406" dir="1521885246bb1pjqumf7" file="text.html"/>
     </recordtable>
     <node crypt="" id="1520055216gejpnmra3c" name="Таро с Максом">
      <recordtable>
@@ -116,7 +117,11 @@
     </recordtable>
    </node>
    <node crypt="" icon="/Swift/color_swift_Blitzcam.svg" id="15218114457foqar8ih5" name="Лекции ШКА">
-    <node crypt="" id="1521882503feqya8fzc5" name="Астрологический НГ"/>
+    <node crypt="" id="1521882503feqya8fzc5" name="Астрологический НГ">
+     <recordtable>
+      <record id="152188537540qa4bjaat" name="Астрологическая картина на 2018 год" author="Шляпникова Анна" url="" tags="" ctime="20180324125615" dir="1521885375m2fspg3tkz" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="1521811473e582rsv929" name="Статьи чужие"/>
    <node crypt="" id="1521811489xy64r72626" name="Статьи МОИ">
