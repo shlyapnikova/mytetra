@@ -128,7 +128,11 @@
      </recordtable>
     </node>
    </node>
-   <node crypt="" id="1521811473e582rsv929" name="Статьи чужие"/>
+   <node crypt="" id="1521811473e582rsv929" name="Статьи чужие">
+    <recordtable>
+     <record id="1522004443zjlkt9rr20" name="Ссылки на астрологические блоги" author="" url="" tags="ссылки, астрология, блоги" ctime="20180325220043" dir="1522004443x3dwqe4vn2" file="text.html"/>
+    </recordtable>
+   </node>
    <node crypt="" id="1521811489xy64r72626" name="Статьи МОИ">
     <node crypt="" id="15218830376eb731s16w" name="Голоушкин &quot;Астрономия&quot;">
      <node crypt="" id="1521883237dp8j2zxj42" name="Меркурий">
