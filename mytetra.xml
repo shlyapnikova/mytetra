@@ -108,7 +108,13 @@
    </recordtable>
   </node>
   <node crypt="" icon="/Swift/color_swift_Core.svg" id="1521811407n56ftbnw2r" name="Астрология">
-   <node crypt="" icon="/Swift/color_swift_Education.svg" id="1521811426c6zrwi2mj0" name="Хорарная школа"/>
+   <node crypt="" icon="/Swift/color_swift_Education.svg" id="1521811426c6zrwi2mj0" name="Хорарная школа">
+    <node crypt="" id="1522614393aou2s9n1f0" name="Хорарный практикум">
+     <recordtable>
+      <record id="15226144123f9pbzckau" name="Приветствие" author="" url="" tags="" ctime="20180401232652" dir="1522614412ux8wbjtri9" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
    <node crypt="" icon="/Swift/color_swift_Moviescene.svg" id="15218114361p9ugzvjzl" name="Астродрама">
     <recordtable>
      <record id="15217876451vkm2u0n5g" name="Ссылки" author="" url="" tags="" ctime="20180323162550" dir="1521787645mg11bo36z1" file="text.html"/>
