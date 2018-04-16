@@ -205,6 +205,13 @@
     </recordtable>
    </node>
   </node>
-  <node crypt="" id="1523867762deis6cuqhv" name="Мое тело"/>
+  <node crypt="" id="1523867762deis6cuqhv" name="Мое тело">
+   <node crypt="" id="1523867813nrvxgdrgzl" name="166 - 60 Робин Райт">
+    <recordtable>
+     <record id="15238678645orswpngpc" name="фото" author="" url="" tags="" ctime="20180416113744" dir="1523867864shr99wfr3b" file="text.html"/>
+     <record id="1523867949qsnmkoahl1" name="одежда" author="" url="" tags="" ctime="20180416113909" dir="1523867949eb82g6tuuf" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
  </content>
 </root>
